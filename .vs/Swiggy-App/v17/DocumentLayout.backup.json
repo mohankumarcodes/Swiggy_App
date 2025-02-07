@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|d:\\devlopment work\\applications\\.net\\swiggy-app\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|d:\\devlopment work\\applications\\.net\\swiggy-app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|d:\\devlopment work\\applications\\.net\\swiggy-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|d:\\devlopment work\\applications\\.net\\swiggy-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|d:\\devlopment work\\applications\\.net\\swiggy-app\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|d:\\devlopment work\\applications\\.net\\swiggy-app\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|solutionrelative:controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|d:\\devlopment work\\applications\\.net\\swiggy-app\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F882A164-486C-476A-A7DF-A388C542C4CD}|Swiggy-App.csproj|solutionrelative:services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebhookController.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Controllers\\WebhookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WebhookController.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Controllers\\WebhookController.cs",
+              "RelativeToolTip": "Controllers\\WebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:43:07.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmailServices.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Services\\EmailServices.cs",
+              "RelativeToolTip": "Services\\EmailServices.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:04:44.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwGcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:31:15.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:24:18.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T05:22:35.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:17:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\Swiggy-App\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:14:02.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
